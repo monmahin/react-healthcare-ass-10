@@ -1,0 +1,62 @@
+[
+    {
+       "id": "001",
+       "title": "Cardiology",
+       "image":"https://i.ibb.co/Fb51vrD/03-img.jpg",
+	   "price":"$360.00",
+	   "drName":"Prof. Dr. Nill Mckangee",
+	   "docImg":"https://i.ibb.co/61STCyS/doctor1.jpg",
+       "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+       "id": "002",
+       "title": "Laboratory Analysis",
+       "image":"https://i.ibb.co/yPt6gDw/02-img.jpg",
+	   "price":"$205.00",
+       "drName":"Prof. Dr. Richard McClintock",
+	   "docImg":"https://i.ibb.co/thQf3cp/doctor2.jpg",
+       "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+       "id": "003",
+       "title": "Neurology",
+       "image":"https://i.ibb.co/RzkPH6R/07-img.jpg",
+	   "price":"$300.00",
+       "drName":"Prof. Dr. Sunita Williams",
+	   "docImg":"https://i.ibb.co/LzP9gyr/doctor3.jpg",
+        "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+        "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+       "id": "004",
+       "title": "Dental Service",
+       "image":"https://i.ibb.co/NS06KJQ/05-img.jpg",
+	   "price":"$200.00",
+       "drName":"Prof. Dr. Howard Jackboson",
+	   "docImg":"https://i.ibb.co/vQxZy7P/doctor4.jpg",
+	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+	{
+       "id": "005",
+       "title": "Orthopedic",
+       "image":"https://i.ibb.co/KL2CSNK/06-img.jpg",
+	   "price":"$260.00",
+       "drName":"Prof. Dr. Rahul Bose",
+	   "docImg":"https://i.ibb.co/JmF7F64/doctor5.jpg",
+	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." 
+    },
+	{
+       "id": "006",
+       "title": "Surgery",
+       "image":"https://i.ibb.co/K7m6Yy5/04-img.jpg",
+	   "price":"$445.00",
+       "drName":"Prof. Dr. Istiaque Hasan",
+	   "docImg":"https://i.ibb.co/k8BgDTm/doctor6.jpg",
+	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
+       "serviceInfo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." 
+    }
+]
