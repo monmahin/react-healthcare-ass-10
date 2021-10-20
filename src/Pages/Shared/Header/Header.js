@@ -12,7 +12,7 @@ import logo from '../Header/logo/bona-logo.png'
 const Header = () => {
     const { user, logOut } = useAuth()
     
-    console.log(user)
+   
     return (
         
     <Navbar  collapseOnSelect expand="lg" bg="info" variant="dark" sticky="top">
@@ -32,7 +32,7 @@ const Header = () => {
                 <Nav.Link as={Link} to="/register">Register</Nav.Link>
 
                         
-                        {user?.email ? <Button onClick={logOut} variant='dark' >Logout</Button> :
+                        {user?.email ? <Button onClick={logOut}  variant='secondary' >Logout</Button> :
                         <Nav.Link as={Link} to="/login">Login</Nav.Link>
                         }
 

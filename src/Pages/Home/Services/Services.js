@@ -4,7 +4,7 @@ import Service from '../Service/Service';
 const Services = () => {
     const [services, setServices] = useState([])
     useEffect(() => {
-        fetch('healthcare.json')
+        fetch('/healthcare.json')
         .then(res=>res.json())
         .then(data=>setServices(data))
     },[])

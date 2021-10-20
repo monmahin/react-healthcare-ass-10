@@ -1,62 +1,62 @@
 [
     {
-       "id": "001",
+       "id": "1",
        "title": "Cardiology",
        "image":"https://i.ibb.co/Fb51vrD/03-img.jpg",
 	   "price":"$360.00",
 	   "drName":"Prof. Dr. Nill Mckangee",
 	   "docImg":"https://i.ibb.co/61STCyS/doctor1.jpg",
        "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+       "serviceInfo":"Cardiology is a branch of medicine dealing with disorders of the heart as well as parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology."
     },
     {
-       "id": "002",
+       "id": "2",
        "title": "Laboratory Analysis",
        "image":"https://i.ibb.co/yPt6gDw/02-img.jpg",
 	   "price":"$205.00",
        "drName":"Prof. Dr. Richard McClintock",
 	   "docImg":"https://i.ibb.co/thQf3cp/doctor2.jpg",
        "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+       "serviceInfo":"Laboratory analysis means a test performed by a labo- ratory on body fluid, tissue, or excretion for the purpose of determining the presence, absence, or concentration of various substances in the human body."
     },
     {
-       "id": "003",
+       "id": "3",
        "title": "Neurology",
        "image":"https://i.ibb.co/RzkPH6R/07-img.jpg",
 	   "price":"$300.00",
        "drName":"Prof. Dr. Sunita Williams",
 	   "docImg":"https://i.ibb.co/LzP9gyr/doctor3.jpg",
         "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-        "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        "serviceInfo":"eurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord."
     },
     {
-       "id": "004",
+       "id": "04",
        "title": "Dental Service",
        "image":"https://i.ibb.co/NS06KJQ/05-img.jpg",
 	   "price":"$200.00",
        "drName":"Prof. Dr. Howard Jackboson",
 	   "docImg":"https://i.ibb.co/vQxZy7P/doctor4.jpg",
 	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+       "serviceInfo":"Dentists' areas of care include not only their patients' teeth and gums but also the muscles of the head, neck and jaw, the tongue, salivary glands, the nervous system of the head and neck and other areas."
     },
 	{
-       "id": "005",
+       "id": "5",
        "title": "Orthopedic",
        "image":"https://i.ibb.co/KL2CSNK/06-img.jpg",
 	   "price":"$260.00",
        "drName":"Prof. Dr. Rahul Bose",
 	   "docImg":"https://i.ibb.co/JmF7F64/doctor5.jpg",
 	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-       "serviceInfo":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." 
+       "serviceInfo":"Orthopedics is a medical specialty that focuses on the diagnosis, correction, prevention, and treatment of patients with skeletal deformities - disorders of the bones, joints, muscles, ligaments, tendons, nerves and skin. These elements make up the musculoskeletal system." 
     },
 	{
-       "id": "006",
+       "id": "6",
        "title": "Surgery",
        "image":"https://i.ibb.co/K7m6Yy5/04-img.jpg",
 	   "price":"$445.00",
        "drName":"Prof. Dr. Istiaque Hasan",
 	   "docImg":"https://i.ibb.co/k8BgDTm/doctor6.jpg",
 	   "doctorInfo":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots.",
-       "serviceInfo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." 
+       "serviceInfo": "Surgery is an invasive technique with the fundamental principle of physical intervention on organs/organ systems/tissues for diagnostic or therapeutic reasons when it involves cutting of a person's tissues or closure of a previously sustained wound." 
     }
 ]
